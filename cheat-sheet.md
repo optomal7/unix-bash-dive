@@ -12,6 +12,7 @@ chmod 755 <./file> -gives executable access to file
 history | grep <cmd I am looking for> -typically so I can find all those git gymnastics the SEP did last week.
 cd - :moves to the last directory I was in
 . -refers to the current directory, I always forget I can do this.
+echo $? -prints exit status
 
 While in less
 
